@@ -36,9 +36,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmsesay&theme=dracula)](https://github.com/mmsesay/github-readme-stats)
 
 ### Connect with me via:
-<p align="center>
+<p align="center">
   <a target="_blank"
-    href="https://www.linkedin.com/in/muhammad-m-sesay/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwTe5YeZkRiKRjluW2kUYeA%3D%3D"><img
+    href="https://www.linkedin.com/in/muhammad-m-sesay"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
  <a target="_blank"
     href="https://twitter.com/DeeMaejor"><img
