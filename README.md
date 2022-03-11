@@ -4,7 +4,7 @@
 
 ### About Me :man:
 
-- 🔭 I certified from ![](https://img.shields.io/badge/-Udacity-informational) as a Full-stack web developer and currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
+- 🔭 I certified from ![](https://img.shields.io/badge/-Udacity-informational) and ![](https://img.shields.io/badge/-Microverse-blueviolet) as a **Full-stack web developer**  😄 
 - 🌱 I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄  
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in machine learning and would like to contribute to this field later in my career.
