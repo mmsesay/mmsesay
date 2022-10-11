@@ -4,12 +4,12 @@
 
 ### About Me :man:
 
-- 🔭 I certified from ![](https://img.shields.io/badge/-Udacity-informational) and ![](https://img.shields.io/badge/-Microverse-blueviolet) as a **Full-stack web developer**  😄 
-- 🌱 I make use of the best practices towards working as a remote software developer.
+- 🔭 I studied **Full-stack web developement** at ![](https://img.shields.io/badge/-Udacity-informational) and ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
+- 🌱 I make use of the best practices and provide efficient solutions to problems.
 - 👯 I'm interested in collaborating and contributing to open source projects.
-- 👯 I’m also interested in machine learning and would like to contribute to this field later in my career.
-- 🤔 Aside from programming,  I am an artist! 😄 Yeah, I love listening to music, playing games, watching movies and just having fun.
-
+- 👯 I’m also interested in WEB3, machine learning and would like to contribute to this field later in my career.
+- 🤔 Aside from programming,  I am an artist! 😄 Yeah, I love listening to music, playing the guitar, watching movies and hanging out sometimes. It's fun!🤩
+ 
 ### Languages & Frameworks. 🚧 
 
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
