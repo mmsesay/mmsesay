@@ -4,7 +4,7 @@
 
 ### About Me :man:
 
-- 🔭 I studied **Full-stack web developement** at ![](https://img.shields.io/badge/-Udacity-informational) and ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
+- 🔭 I studied **Full-stack web development** at ![](https://img.shields.io/badge/-Udacity-informational) and ![](https://img.shields.io/badge/-Microverse-blueviolet) 😄 
 - 🌱 I make use of the best practices and provide efficient solutions to problems.
 - 👯 I'm interested in collaborating and contributing to open source projects.
 - 👯 I’m also interested in WEB3, machine learning and would like to contribute to this field later in my career.
